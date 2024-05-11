@@ -1,3 +1,10 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# Don't just Censor Curse Words but also flag them 
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+Built on top of "Nodebb-plugin-beep", this plugin has an added functionality wherein the posts with the mentioned curse words will be automatically flagged.
+
+
+## Installation
+
+    npm install @micromint1npm/ea-ab-suscipit
+
+
